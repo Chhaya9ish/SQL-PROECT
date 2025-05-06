@@ -17,9 +17,6 @@ Any MySQL client (e.g., MySQL Workbench, DBeaver, or command line)
 **how to use**
 Open your MySQL client and connect to your database server.
 
-Run the SQL script:
-sql
-Copy
-Edit
-SOURCE path/to/movie_boxoffice.sql;
+
+
 
